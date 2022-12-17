@@ -1,4 +1,4 @@
-### 이력서 입니다!: https://platinum-peace-c4c.notion.site/6954bcf246cc4cc18619fd9845fdfe39
+### 이력서 입니다!: https://url.kr/wguj6k
 
 <!--
 **blackzero23/blackzero23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
