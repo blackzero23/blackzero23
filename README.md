@@ -1,5 +1,3 @@
-### 이력서 입니다!: https://url.kr/wguj6k
-
 <!--
 **blackzero23/blackzero23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
