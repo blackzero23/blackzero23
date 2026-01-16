@@ -1,21 +1,29 @@
-<!--
-**blackzero23/blackzero23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 안녕하세요, 백엔드 개발자 박도균 입니다.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h2> My tech stack </h2>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackzero23&show_icons=true&theme=radical)
+> **"Why에서 시작해 How를 설계하고, What으로 완성하자"**
 <br>
+
+## 📫 Contact
+- **Email:** a46467734@gmail.com
+
+<br>
+
+## 🛠 Tech Stack
+
+### Languages
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+### Frameworks & Tools
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+<br>
+
+## 📊 GitHub Analytics
+
+<img src="https://ghchart.rshah.org/blackzero23" />
